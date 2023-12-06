@@ -1,86 +1,88 @@
 ---
 layout: cv
-title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kameron York
+Aspiring Business Analyst
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="kamsyork@gmail.com">kamsyork@gmail.com</a>
+| <a href="https://kameronyork.com">My Website</a>
+| <a href="https://linkedin.com/in/kameronyork">LinkedIn</a>
+| <a href="https://github.com/kameronyork">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020-2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Major in Business Analytics.
+
+__Obtaining Certification In:__, Rexburg, ID
+
+- Business Fundamentals.
+- Business Administration.
+- Business and Leadership Skills.
+- Data Science.
 
 
 ## Related Experience
 
-### Internships
+### Data Analytics
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2023 - Present`
+__Internal Reporting Analyst__ - Cooper Norman, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Collaborated with CFO and data analytics team to build 30+ reports for firm-wide use.
+- Created staff utilization reports for 6+ departments based on unique metrics including project tracking and time-keeping.
+- Pioneered Data-integrity reporting to monitor and manage two company softwares.
 
-### Data Science Lead
+`August 2022 - April 2023`
+__Data Visualization Specialist__, - Brigham Young University - Idaho, Rexburg, ID
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Facilitated building and upkeep of 15+ dynamic reports for team metrics, phone data, and email tracking.
+- Spearheaded creation of dynamic means of data collection and reports for efficiency tracking of 10+ employee department. 
+- Created essential Data-integrity reports through Microsoft Excel and Power BI.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Prior Experience
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`September 2020 - August 2022`
+__Assistant General Manager__, Domino's Pizza, Rexburg, ID
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Led teams of 10+ in accurately and quickly fulfilling customer orders.
+- Maintained 95%+ in rating of product quality and customer service on all shifts.
+- Excelled in communication, sustaining strong relations with coworkers, management, and franchise owners.
 
-### Data Science Consulting Team
+`April 2021 - September 2021`
+__Order Fulfillment Picker__, Amazon.com, Phoenix, AZ
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Competed in and won 12+ pick rate and quality competitions among shift members.
+- Exceeded company average in work quality for nine consecutive weeks.
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`November 2019 - September 2020`
+__Lead Sales Associate__, Deseret Book, Phoenix, AZ
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Trained and supervised 15+ sales associates in company best practices.
+- Trusted with warehouse management and bank depositing for six months.
+- Maintained 100% reputation for customer service skills, speed of work, and leadership.
 
 
-## Service and Work History
+## Volunteer Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2017-2019`
+__Full Time Volunteer Representative__, Des Moines, IA<br>
+The Church of Jesus Christ of Latter-Day Saints
+
+- Supervised and trained districts of 10+ volunteers for 12 months.
+- Exemplified a strong leadership skills by organizing 30+ team trainings over a 12 month span.
+- Collaborated with leadership across 9+ locations in Iowa, Illinois, and Missouri.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+## Certifications
+- Certified Specialist in Microsoft Excel 2016 | Microsoft.
+- Certified Specialist in Microsoft PowerPoint 2016 | Microsoft.
+- Power BI Data Modeling with DAX | LinkedIn Learning.
 
 <!-- ### Footer
 
